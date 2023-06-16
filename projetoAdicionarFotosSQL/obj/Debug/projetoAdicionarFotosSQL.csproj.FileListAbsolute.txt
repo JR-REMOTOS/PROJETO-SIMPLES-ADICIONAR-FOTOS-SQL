@@ -1,0 +1,20 @@
+C:\Users\JR CELL\source\repos\projetoAdicionarFotosSQL\bin\Debug\projetoAdicionarFotosSQL.exe.config
+C:\Users\JR CELL\source\repos\projetoAdicionarFotosSQL\bin\Debug\projetoAdicionarFotosSQL.exe
+C:\Users\JR CELL\source\repos\projetoAdicionarFotosSQL\bin\Debug\projetoAdicionarFotosSQL.pdb
+C:\Users\JR CELL\source\repos\projetoAdicionarFotosSQL\obj\Debug\projetoAdicionarFotosSQL.csproj.AssemblyReference.cache
+C:\Users\JR CELL\source\repos\projetoAdicionarFotosSQL\obj\Debug\projetoAdicionarFotosSQL.Form1.resources
+C:\Users\JR CELL\source\repos\projetoAdicionarFotosSQL\obj\Debug\projetoAdicionarFotosSQL.Properties.Resources.resources
+C:\Users\JR CELL\source\repos\projetoAdicionarFotosSQL\obj\Debug\projetoAdicionarFotosSQL.csproj.GenerateResource.cache
+C:\Users\JR CELL\source\repos\projetoAdicionarFotosSQL\obj\Debug\projetoAdicionarFotosSQL.csproj.CoreCompileInputs.cache
+C:\Users\JR CELL\source\repos\projetoAdicionarFotosSQL\obj\Debug\projetoAdicionarFotosSQL.exe
+C:\Users\JR CELL\source\repos\projetoAdicionarFotosSQL\obj\Debug\projetoAdicionarFotosSQL.pdb
+C:\Users\Jr-Serviços-ON\Desktop\ARQUIVOS CODIGO FONTE\Projetos C#\projetoAdicionarFotosSQL\bin\Debug\projetoAdicionarFotosSQL.exe.config
+C:\Users\Jr-Serviços-ON\Desktop\ARQUIVOS CODIGO FONTE\Projetos C#\projetoAdicionarFotosSQL\bin\Debug\projetoAdicionarFotosSQL.exe
+C:\Users\Jr-Serviços-ON\Desktop\ARQUIVOS CODIGO FONTE\Projetos C#\projetoAdicionarFotosSQL\bin\Debug\projetoAdicionarFotosSQL.pdb
+C:\Users\Jr-Serviços-ON\Desktop\ARQUIVOS CODIGO FONTE\Projetos C#\projetoAdicionarFotosSQL\obj\Debug\projetoAdicionarFotosSQL.csproj.AssemblyReference.cache
+C:\Users\Jr-Serviços-ON\Desktop\ARQUIVOS CODIGO FONTE\Projetos C#\projetoAdicionarFotosSQL\obj\Debug\projetoAdicionarFotosSQL.Form1.resources
+C:\Users\Jr-Serviços-ON\Desktop\ARQUIVOS CODIGO FONTE\Projetos C#\projetoAdicionarFotosSQL\obj\Debug\projetoAdicionarFotosSQL.Properties.Resources.resources
+C:\Users\Jr-Serviços-ON\Desktop\ARQUIVOS CODIGO FONTE\Projetos C#\projetoAdicionarFotosSQL\obj\Debug\projetoAdicionarFotosSQL.csproj.GenerateResource.cache
+C:\Users\Jr-Serviços-ON\Desktop\ARQUIVOS CODIGO FONTE\Projetos C#\projetoAdicionarFotosSQL\obj\Debug\projetoAdicionarFotosSQL.csproj.CoreCompileInputs.cache
+C:\Users\Jr-Serviços-ON\Desktop\ARQUIVOS CODIGO FONTE\Projetos C#\projetoAdicionarFotosSQL\obj\Debug\projetoAdicionarFotosSQL.exe
+C:\Users\Jr-Serviços-ON\Desktop\ARQUIVOS CODIGO FONTE\Projetos C#\projetoAdicionarFotosSQL\obj\Debug\projetoAdicionarFotosSQL.pdb
